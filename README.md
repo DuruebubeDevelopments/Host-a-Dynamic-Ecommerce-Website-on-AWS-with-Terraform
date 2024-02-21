@@ -1,4 +1,4 @@
-![Uploading 1.Terraform-Ecommerce (1) (1).jpg…]()
+
 
 # Host-a-Dynamic-Ecommerce-Website-on-AWS-with-Terraform
 Deploy a dynamic website on AWS with Terraform
