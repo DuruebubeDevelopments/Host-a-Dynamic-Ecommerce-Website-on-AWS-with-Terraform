@@ -1,8 +1,7 @@
-https://github.com/DuruebubeDevelopments/Host-a-Dynamic-Ecommerce-Website-on-AWS-with-Terraform/blob/main/1.Terraform-Ecommerce%20(1).jpg?raw=true
+
 
 # Host-a-Dynamic-Ecommerce-Website-on-AWS-with-Terraform
 Deploy a dynamic website on AWS with Terraform
-# Host a Dynamic Ecommerce Website on AWS with Terraform
 
 ## Introduction
 This repository contains the Infrastructure-as-Code (IaC) resources for deploying a high-availability e-commerce platform on AWS. By leveraging Terraform, we orchestrate the creation of a secure, scalable, and resilient architecture that supports an online retail application.
