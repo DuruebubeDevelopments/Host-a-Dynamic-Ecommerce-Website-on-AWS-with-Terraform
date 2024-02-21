@@ -1,4 +1,4 @@
-
+https://github.com/DuruebubeDevelopments/Host-a-Dynamic-Ecommerce-Website-on-AWS-with-Terraform/blob/main/1.Terraform-Ecommerce%20(1).jpg?raw=true
 
 # Host-a-Dynamic-Ecommerce-Website-on-AWS-with-Terraform
 Deploy a dynamic website on AWS with Terraform
